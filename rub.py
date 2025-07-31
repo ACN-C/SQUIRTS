@@ -70,8 +70,8 @@ squirt()
 # as client, perhaps, squirts.py ~~~~ <destination> <file> ???
 # with the number of tildes indicating how fast the client should send data? 
 # less means short, fast, burst, more means longer but weaker?
-def taking_it():
-    print("This is the client side, not implemented yet.")
-    # Here you would implement the client logic to connect to the server
-    # and send data, similar to how the server receives it.
-    pass
+#def taking_it():
+#    print("This is the client side, not implemented yet.")
+#    # Here you would implement the client logic to connect to the server
+#    # and send data, similar to how the server receives it.
+#    pass
